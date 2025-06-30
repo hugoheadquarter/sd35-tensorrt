@@ -7,7 +7,7 @@ from PIL import Image
 from dotenv import load_dotenv
 
 
-# Global variables for model
+# Global variables for models
 engine_built = False
 HF_TOKEN = os.getenv('HF_TOKEN')
 
