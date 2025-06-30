@@ -1,4 +1,4 @@
-FROM nvcr.io/nvidia/pytorch:24.09-py3
+FROM nvcr.io/nvidia/pytorch:24.04-py3
 
 # Install Python dependencies
 RUN pip install --upgrade pip
